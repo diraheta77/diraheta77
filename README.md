@@ -1,3 +1,5 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js">{newline}</script>
+
 ### Hi [Diego Iraheta][website] here 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/FirstNameDiego?color=1DA1F2&label=Diego%20Iraheta&logo=twitter&style=for-the-badge)](https://twitter.com/FirstNameDiego)
@@ -39,5 +41,3 @@ Here are some ideas to get you started:
 
 [website]: https://naviscode.com/
 [linkedin]: https://www.linkedin.com/in/diego-iraheta-a3007b49/
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer />
