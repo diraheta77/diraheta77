@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi [Diego Iraheta][website] here 👋
 
-**diraheta77/diraheta77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/FirstNameDiego?color=1DA1F2&label=Diego%20Iraheta&logo=twitter&style=for-the-badge)](https://twitter.com/FirstNameDiego)
 
 Here are some ideas to get you started:
 
@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--links-->
+
+[website]: https://naviscode.com/
