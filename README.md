@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 [website]: https://naviscode.com/
 [linkedin]: https://www.linkedin.com/in/diego-iraheta-a3007b49/
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer />
